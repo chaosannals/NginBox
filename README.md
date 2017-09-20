@@ -1,4 +1,4 @@
-# [NginBox](https://github.com/chaosannals/nginbox)
+# ![](NginBox.ico)[NginBox](https://github.com/chaosannals/nginbox)
 
 # Readme
 - English

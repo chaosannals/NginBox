@@ -1,4 +1,4 @@
-# [NginBox](https://github.com/chaosannals/nginbox)
+# ![](../NginBox.ico)[NginBox](https://github.com/chaosannals/nginbox)
 
 # Readme
 - [English](../README.md)
@@ -6,4 +6,4 @@
 
 # Description
 - 一个 Nginx 工具。
-- 一个 php-cgi 工具.
+- 一个 php-cgi 工具。
